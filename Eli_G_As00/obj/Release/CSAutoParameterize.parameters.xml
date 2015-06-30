@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Eli_G_As00Context-Web.config Connection String" description="Eli_G_As00Context Connection String used in web.config by the application to access the database." defaultValue="Data Source=tcp:w5jwcq7gq9.database.windows.net,1433;Initial Catalog=EliGAs00_db;User Id=DBadmin@w5jwcq7gq9;Password=DBp4ssw0rd;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\eli\\documents\\visual\ studio\ 2013\\Projects\\Eli_G_As00\\Eli_G_As00\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Eli_G_As00Context']/@connectionString" />
+  </parameter>
+</parameters>
